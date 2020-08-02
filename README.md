@@ -1,4 +1,4 @@
-### Hello World! 😍
+### Hi World! 😍
 
 <img src = "https://media.giphy.com/media/h8yMHhzuAqKXfOnHLG/giphy.gif">
 
