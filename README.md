@@ -1,6 +1,6 @@
 ### Hello World! 😍
 
-<img src = "https://i.imgur.com/jwia2Yo.gif">
+<img src = "https://media.giphy.com/media/h8yMHhzuAqKXfOnHLG/giphy.gif">
 
 
 ##### Made with ❤️ by [Jojo Zhang](https://github.com/nomadkitty)
